@@ -18,6 +18,8 @@ classifiers = [
 dependencies = [
     "loguru",
     "mkdocs",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
     "pip",
     "python-dotenv",
     "ruff",
