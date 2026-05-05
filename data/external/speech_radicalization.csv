@@ -1,26 +1,33 @@
-category,definition,example
-Hate Speech,"Broader category within speech radicalization. Refers to offensive discourse targeting a group or an individual based on inherent characteristics (such as race, religion or gender) and that may threaten social peace. Hate speech is any kind of communication that attacks or uses pejorative or discriminatory language with reference to a person or group on the basis of who they are.","""GROUP are a bunch of psychopaths""
+﻿category,definition,revised_definition,example
+Hate Speech,"Broader category within speech radicalization. Refers to offensive discourse targeting a group or an individual based on inherent characteristics (such as race, religion or gender) and that may threaten social peace. Hate speech is any kind of communication that attacks or uses pejorative or discriminatory language with reference to a person or group on the basis of who they are.","Expression that attacks, insults or discriminates against a person or group based on inherent or socially recognized characteristics (race, religion, gender, ethnicity, sexuality). The defining criterion is a speech that targets someone for who they are, not for their actions.
+- Does NOT justify or legitimize harm (Dangerous Speech)
+- Does NOT include purely insulting or demeaning but non-identity-based language (Extreme Speech)
+- Does NOT focus on absolutist evaluation of political actors (Enraged Speech)
+- Does NOT call for elimination or cleansing (Hate Grammar)
+- Does NOT normalize state or systemic violence (Horror Grammar)","""GROUP are a bunch of psychopaths""
 ""GROUP are stupid""
 ""GROUP are pests""
 ""The religion of GROUP is too radical"" "
-Dangerous Speech,"Any form of communication that can increase the risk that its audience will condone or commit violence against members of another group. Promotes fear by villainizing another group, such that violence against them seems defensive and justifiable. It uses tactics of dehumanization, mirror accusations (the party which is using terror will accuse the enemy of using terror), threats to group integrity or purity, assertions of attack against women or children, and it questions group loyalty if the speech is not being enacted by the very members of the group.","""GROUP is a threat to our society""
+Dangerous Speech,"Any form of communication that can increase the risk that its audience will condone or commit violence against members of another group. Promotes fear by villainizing another group, such that violence against them seems defensive and justifiable. It uses tactics of dehumanization, mirror accusations (the party which is using terror will accuse the enemy of using terror), threats to group integrity or purity, assertions of attack against women or children, and it questions group loyalty if the speech is not being enacted by the very members of the group.","Expression that frames violence or harm against a target group as necessary, justified or defensive. It does this by portraying the target as an imminent threat (through dehumanization, fear appeals, ""purity"" threats, or accusations of harm). The defining criterion is the justification or legitimation of harm.","""GROUP is a threat to our society""
 ""GROUP corrupts women and children""
-""GROUP are monsters""
-""GROUP are barbaric and a danger to humanity"""
-Extreme Speech,"Hostilities that build structures of exclusion and prepare for violence. Focuses on normalizing violence, exclusion and hostility via humor. Frivolizes violent and exclusionary actions. Emphasizes ""us vs them"" ideology. ","""Nuke them all""
-""GROUP destroys everything they touch""
-""Can't believe GROUP can vote""
-""GROUP dresses like clowns""
-""GROUP had this coming"""
-Enraged Speech,"Exaltation, both positive and negative, of qualities and actions of a political figure or leader. Polarizes public conversation and emphasizes absolutism. Catalyst for other forms of radicalization and exclusion of those who are different.","""POLITICAL_FIGURE will save us"" 
-""POLITICAL_FIGURE is useless""
-""The law is clear""
+""GROUP is barbaric and a danger to humanity""
+""GROUP is poisoning our country"""
+Extreme Speech,"Hostilities that build structures of exclusion and prepare for violence. Focuses on normalizing violence, exclusion and hostility via humor. Frivolizes violent and exclusionary actions. Emphasizes ""us vs them"" ideology. ","Expression that uses highly hostile, demeaning, or exclusionary language towards a target group, without calling for harm, removal or social control. It strongly violates social norms of civility, and is intended to provoke and demean. The defining criterion is the targetting of a group with polarizing, insulting or dehumanizing language.","""GROUP destroys everything they touch""
+""GROUP is pathetic and laughable""
+""GROUP behaves like animals""
+""GROUP is disgusting and immoral"""
+Enraged Speech,"Exaltation, both positive and negative, of qualities and actions of a political figure or leader. Polarizes public conversation and emphasizes absolutism. Catalyst for other forms of radicalization and exclusion of those who are different.","Speech that focuses on the qualities, competence or actions of political figures, institutions or organizations in an absolutist or highly polarized way. It portrays them as entirely good, bad or the sole solution to a problem. The defining criterion is the absolutist framing of a leader, institution or organization.","""POLITICAL_FIGURE will save us"" 
+""INSTITUTION is useless""
+""ORGANIZATION is the only solution to this plague""
 ""POLITICAL_FIGURE is failing society"""
-Hate Grammar,"Hate as a disciplinary and normative force against ""uncivilized"" or ""unregulated"" groups to ""put them back into order"". Hate Grammar expresses a desire to eliminate others, ensuring groups stay in place. It conveys a fantasy to cleanse public space and hide away members of disident communities.  ","""GROUP should not be allowed on the streets""
+Hate Grammar,"Hate as a disciplinary and normative force against ""uncivilized"" or ""unregulated"" groups to ""put them back into order"". Hate Grammar expresses a desire to eliminate others, ensuring groups stay in place. It conveys a fantasy to cleanse public space and hide away members of disident communities.  ","Speech that calls for the restriction, control, removal or elimination of a target group, often framed as restoring social order, moral order or purity. The defining criterion is a desire to force the group to stay ""in place"" or be removed from public or social space.","""GROUP should not be allowed on the streets""
 ""GROUP should be eliminated""
 ""GROUP is out of control""
 ""GROUP must be cleansed by God"""
-Horror Grammar,Normalization of death and State cruelty. Series of media strategies that desensitize the public to barbarism. Forms in which systematically pejorative and exclusionary discursive formulations become entrenched or normalized. ,"""The STATE response towards GROUP is so entertaining""
+Horror Grammar,Normalization of death and State cruelty. Series of media strategies that desensitize the public to barbarism. Forms in which systematically pejorative and exclusionary discursive formulations become entrenched or normalized. ,"Speech that normalizes, frames as routinary or justifies systemic violence, brutality or death, particularly state or institutional violence. It aims to desensitize audiences to violence and make cruelty seem ordinary or acceptable. The defining criterion is the endorsement or trivialization of harm executed by institutions, the State or systemic forces. ","""The STATE response towards GROUP is so entertaining""
 ""STATE should take more strong measures towards GROUP""
 ""STATE is only doing their job""
- ""STATE should protect us from GROUP"""
+""This is how the system works""
+""Violence is inevitable when enforcing the law"""
+,,,
+
